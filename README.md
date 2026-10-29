@@ -24,10 +24,3 @@ I build blockchain systems and the web apps around them — from Proof-of-Work l
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andkull&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Andkull's GitHub stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andkull&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="170"/>
-</p>
